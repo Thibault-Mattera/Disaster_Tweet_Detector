@@ -11,6 +11,14 @@ I built a solution based on Supervised Learning that can identify if a tweet is 
 
 ## Github Repository
 
-There 3 scripts 
+This repository contains 3 scripts:
+- eda.y: exploratory analysis of the features "keywords" and "location" to analyse possible correlations with disaster occurrence. 
+- preprocessing.py: succession of tweet cleaning and preprocessing
+- modelling.py: vectorization of the tweet (TF-IDF) and binary classification model (multinomial Naive Bayes)
+
+
+## Exploratory Data Analysis
+
+
 
 
