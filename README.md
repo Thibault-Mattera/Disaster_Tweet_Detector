@@ -1,2 +1,3 @@
-# Disaster_Tweet_Detector
-A solution that detects if a tweet is about a real disaster or not
+# Disaster Tweet Detector
+
+A solution that detects if a tweet is about a real disaster or not.
