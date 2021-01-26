@@ -7,7 +7,10 @@ This project is a participation the Kaggle challenge [Natural Language Processin
 Twitter has become an important communication channel in times of emergency. First responders are increasingly monitoring Twitter as it gives near real-time information. But they might face difficulties to clearly identify if a person is anouncing a disaster.
 With many tweets containing metaphores, the task can be tricky. 
 
-I built a solution based on Supervised Learning that can identify if a tweet is related to a real disaster or not. 
+I built a solution based on Supervised Learning that can identify if a tweet is related to a real disaster or not. This could help emergency services to automatically monitor Twitter to detect disasters with a better accuracy.
 
+## Github Repository
+
+There 3 scripts 
 
 
