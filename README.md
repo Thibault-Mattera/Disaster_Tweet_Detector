@@ -23,6 +23,6 @@ I wanted to figure out if we can use the columns "location" and "keyword" in our
 
 Keywords analysis           |  Locations analysis   
 :-------------------------:|:-------------------------:
-![](/figures/keywords_analysis.png)  |  ![](/images/locations_analysis.png)
+![](/figures/keywords_analysis.png)  |  ![](/figures/locations_analysis.png)
 
 
