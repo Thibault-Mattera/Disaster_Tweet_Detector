@@ -42,7 +42,9 @@ It is interesting to notice common frequent words such as "fire". Indeed, the wo
 Among the disaster tweets, we can quote these differenciators: "police", "terrorist" as well as words referring to natural disasters ("storm", "flood").
 
 
+## Vectorizing
 
 
+## Modeling
 
 
