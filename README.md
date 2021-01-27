@@ -19,10 +19,28 @@ This repository contains 3 scripts:
 
 ## Exploratory Data Analysis
 
-I wanted to figure out if we can use the columns "location" and "keyword" in our models
+I wanted to figure out if we can leverage the columns "location" and "keyword" in the models.
 
 Keywords analysis           |  Locations analysis   
 :-------------------------:|:-------------------------:
 ![](/figures/keywords_analysis.png)  |  ![](/figures/locations_analysis.png)
+
+
+## Tweet cleaning
+
+This step consists in cleaning and removing the noise from the tweets, especially:
+- removing URLs, digits and stop words
+- performing Part-of-speech tagging (POS) to keep only nouns, verbs and adjectives.
+
+This allows us the have better look at the tweets' content.
+
+Keywords analysis           |  Locations analysis   
+:-------------------------:|:-------------------------:
+![](/figures/word_cloud_disaster_tweets.png)  |  ![](/figures/word_cloud_NO_disaster_tweets.png)
+
+
+
+
+
 
 
