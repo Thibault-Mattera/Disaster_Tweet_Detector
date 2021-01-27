@@ -38,7 +38,7 @@ Word Cloud - "Disaster" tweets          |  Word Cloud - "No disaster" tweets
 :-------------------------:|:-------------------------:
 ![](/figures/word_cloud_disaster_tweets.png)  |  ![](/figures/word_cloud_NO_disaster_tweets.png)
 
-It is interesting to notice common frequent words such as "fire". Indeed, the word "fire" is greatly used in metaphores (example: "This man is on fire").
+It is interesting to notice common frequent words such as "fire". Indeed, the word "fire" is greatly used in metaphores (example: "This man is on fire").  
 Among the disaster tweets, we can quote these differenciators: "police", "terrorist" as well as words referring to natural disasters ("storm", "flood").
 
 
