@@ -29,12 +29,12 @@ Keywords analysis           |  Locations analysis
 ## Tweet cleaning
 
 This step consists in cleaning and removing the noise from the tweets, especially:
-- removing URLs, digits and stop words
+- removing URLs, digits and stop words.
 - performing Part-of-speech tagging (POS) to keep only nouns, verbs and adjectives.
 
 This allows us the have better look at the tweets' content.
 
-Keywords analysis           |  Locations analysis   
+Word Cloud - "Disaster" tweets          |  Word Cloud - "No disaster" tweets  
 :-------------------------:|:-------------------------:
 ![](/figures/word_cloud_disaster_tweets.png)  |  ![](/figures/word_cloud_NO_disaster_tweets.png)
 
