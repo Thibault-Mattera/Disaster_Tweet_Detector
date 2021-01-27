@@ -19,6 +19,10 @@ This repository contains 3 scripts:
 
 ## Exploratory Data Analysis
 
+I wanted to figure out if we can use the columns "location" and "keyword" in our models
 
+Keywords analysis           |  Locations analysis   
+:-------------------------:|:-------------------------:
+![](/figures/keywords_analysis.png)  |  ![](/images/locations_analysis.png)
 
 
