@@ -42,7 +42,7 @@ It is interesting to notice common frequent words such as "fire". Indeed, the wo
 Among the disaster tweets, we can quote these differenciators: "police", "terrorist" as well as words referring to natural disasters ("storm", "flood").
 
 
-## Modeling
+## Model building
 
 First, I transformed the cleaned tweets into vectors.
 I tried different methods (vectorizers) including:
@@ -61,8 +61,16 @@ I tried different models that could be adapted for our binary classification pro
 
 ![](/figures/cross_val_TFIDF.png)
 
-I wanted to improve 
-Neural Networks: a simple sequential model with an embedding layer & 
-ULMFit (Universal Model Fine-tuning for Text Classification)
+To improve the F1 score, so I tried with Neural Networks (see in [Notebooks](https://www.kaggle.com/c/nlp-getting-started/overview)): 
+- a simple sequential model with an embedding layer (using Keras)
+- ULMFit (Universal Model Fine-tuning for Text Classification) (using PyTorch/Fast.ai)
+- BERT
+
+## Model Performance
+
+TF-IDF vectors + Multinomial Naive Bayes        |  ULMfit model
+:-------------------------:|:-------------------------:
+![](/figures/word_cloud_disaster_tweets.png)  |  ![](/figures/word_cloud_NO_disaster_tweets.png)
+
 
 
