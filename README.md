@@ -68,7 +68,7 @@ To improve the F1 score, so I tried with Neural Networks (see in [Notebooks](htt
 
 ## Model Performance
 
-TF-IDF vectors + Multinomial Naive Bayes        |  ULMfit model
+TF-IDF vectors + Multinomial Naive Bayes        |  BERT model fine-tuned for text classification
 :-------------------------:|:-------------------------:
 ![](/figures/performance_NB.png)  |  ![](/figures/performance_BERT.png)
 
