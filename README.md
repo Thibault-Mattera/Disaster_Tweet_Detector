@@ -70,7 +70,7 @@ To improve the F1 score, so I tried with Neural Networks (see in [Notebooks](htt
 
 TF-IDF vectors + Multinomial Naive Bayes        |  ULMfit model
 :-------------------------:|:-------------------------:
-![](/figures/word_cloud_disaster_tweets.png)  |  ![](/figures/word_cloud_NO_disaster_tweets.png)
+![](/figures/performance_NB.png)  |  ![](/figures/performance_ULMfit.PNG)
 
 
 
