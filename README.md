@@ -64,11 +64,11 @@ I tried different models that could be adapted for our binary classification pro
 To improve the F1 score, so I tried with Neural Networks (see in [Notebooks](https://www.kaggle.com/c/nlp-getting-started/overview)): 
 - a simple sequential model with an embedding layer (using Keras)
 - ULMFit (Universal Model Fine-tuning for Text Classification) (using PyTorch/Fast.ai)
-- BERT
+- BERT fine-tuned for text classification
 
 ## Model Performance
 
-TF-IDF vectors + Multinomial Naive Bayes        |  BERT model fine-tuned for text classification
+TF-IDF vectors + Multinomial Naive Bayes        |  BERT model
 :-------------------------:|:-------------------------:
 ![](/figures/performance_NB.png)  |  ![](/figures/performance_BERT.png)
 
