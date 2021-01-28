@@ -42,9 +42,27 @@ It is interesting to notice common frequent words such as "fire". Indeed, the wo
 Among the disaster tweets, we can quote these differenciators: "police", "terrorist" as well as words referring to natural disasters ("storm", "flood").
 
 
-## Vectorizing
-
-
 ## Modeling
+
+First, I transformed the cleaned tweets into vectors.
+I tried different methods (vectorizers) including:
+- Count vectorizer (Bag of words: count the words occurences)
+- TF-IDF (term frequency–inverse document frequency)
+- Word2vec word vectors
+- FastText word vectors
+
+Then, I built the classification models with 2 classes.
+I tried different models that could be adapted for our binary classification problem:
+- Ridge Classifier
+- Random Forest Classifier 
+- LinearSVC
+- Multinomial Naives-Bayes
+- Logistic Regression
+
+![](/figures/cross_val_TFIDF.png)
+
+I wanted to improve 
+Neural Networks: a simple sequential model with an embedding layer & 
+ULMFit (Universal Model Fine-tuning for Text Classification)
 
 
