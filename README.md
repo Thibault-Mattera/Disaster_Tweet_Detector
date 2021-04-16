@@ -73,4 +73,4 @@ TF-IDF vectors + Multinomial Naive Bayes        |  BERT model
 ![](/figures/performance_NB_resized.png)  |  ![](/figures/performance_BERT_resized.png)
 
 We can see that BERT outperforms the Naive Bayes model.   
-Here, we want to minimize the ratio (Predicted 0) / (Actual 1), which means missing a disaster that is really happening.
+In a context of a disaster, we want to minimise the False Negative rate (ie. Type II error - a real disaster happening that is not detected). 
